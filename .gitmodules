@@ -1,0 +1,3 @@
+[submodule "pipa"]
+	path = pipa
+	url = https://github.com/AI-Kyo-er/pipa.git
